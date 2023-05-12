@@ -1,0 +1,25 @@
+[Running] node "/workspace/Beginning-Javascript/playground.js"
+Minted:Francine
+Minted:Mharianne
+Minted:Eldrie
+{
+  name: 'Francine',
+  eyeColor: 'Black',
+  accessory: 'Bracelet',
+  skintone: 'White'
+}
+{
+  name: 'Mharianne',
+  eyeColor: 'Yellow',
+  accessory: 'Earings',
+  skintone: 'Brown'
+}
+{
+  name: 'Eldrie',
+  eyeColor: 'Blue',
+  accessory: 'Necklace',
+  skintone: 'Black'
+}
+3
+
+[Done] exited with code=0 in 0.046 seconds
